@@ -1,0 +1,13 @@
+{
+  "customers": [
+    {
+      "first_name": "Ahmet Serhat",
+      "last_name": "FİDAN",
+      "email": "example@gmail.com",
+      "phone": "05644216846541",
+      "address": "yalova",
+      "description": "Crud Deneme",
+      "id": 1
+    }
+  ]
+}
